@@ -227,6 +227,15 @@ a:hover {
   height: 50px;
 }
 
+.display-3 {
+  font-weight: 700;
+}
+
+.btn-lg {
+  padding: 1rem 2.5rem;
+  font-size: 1.1rem;
+}
+
 .text-muted-custom {
   color: var(--text-muted);
 }
